@@ -48,24 +48,26 @@ Context Retrieval → Ollama (TinyLlama) → Answer
 ```bash
 git clone https://github.com/<your-username>/pdf-rag-chatbot.git
 cd pdf-rag-chatbot
+```
 
---
+
 
 ### 2 Create Virtual Envirenment
-
+```bash
 python -m venv venv
 venv\Scripts\activate
-
+```
 
 ### 3 Install Dependencies
-
+```bash
 pip install -r requirements.txt
-
+```
 
 ### 4 Install and Run Ollama
-
+```bash
 ollama pull tinyllama
-
+```
 ### 4 Run the Streamlit App
-
+```bash
 streamlit run pdf_chatbot_streamlit_app.py
+```
