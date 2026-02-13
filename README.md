@@ -29,11 +29,11 @@ This project demonstrates an **end-to-end GenAI pipeline** with semantic search,
                ┌──────────────┐
                │   PDF Upload │
                └──────┬───────┘
-                       ▼
+                      ▼
                ┌──────────────┐
                │ Text Chunking│
                └──────┬───────┘
-                       ▼
+                      ▼
         ┌────────────────────────────┐
         │ SentenceTransformers       │
         │   (Embeddings)             │
