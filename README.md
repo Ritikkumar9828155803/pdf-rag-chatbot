@@ -74,6 +74,7 @@ This project demonstrates an **end-to-end GenAI pipeline** with semantic search,
 ![demo 1](demo/Screenshot_1.png)
 ![demo 2](demo/Screenshot_2.png)
 
+
 ----
 
 ## ⚙️ Setup Instructions
