@@ -18,14 +18,7 @@ This project demonstrates an **end-to-end GenAI pipeline** with semantic search,
 
 ---
 
-## 🏗️ Architecture
-
-User → Streamlit UI → PDF Loader → Text Chunking →  
-Embeddings (SentenceTransformers) → FAISS Vector Search →  
-Context Retrieval → Ollama (TinyLlama) → Answer
-
----
-## Architecture Diagram 
+## 🏗️ Architecture Diagram 
 
                 ┌──────────────┐
                 │   User UI    │
