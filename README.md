@@ -67,8 +67,13 @@ This project demonstrates an **end-to-end GenAI pipeline** with semantic search,
 - **PDF Parsing:** pypdf
 - **Language:** Python
 
-
 ---
+
+## 🎥 Chatbot Demo
+
+![PDF-Uploading](screenshot 1.png)
+![Q&A](screenshot 2.png)
+----
 
 ## ⚙️ Setup Instructions
 
