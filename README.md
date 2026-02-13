@@ -1,8 +1,8 @@
-# 📄 PDF RAG Chatbot (Local LLM + FAISS + Streamlit)
+# 📄 PDF RAG Chatbot 
 
 A **Retrieval-Augmented Generation (RAG)** chatbot that answers questions from PDF documents using a **local LLM (TinyLlama via Ollama)**, **FAISS vector search**, and **SentenceTransformers embeddings**.
 
-This project demonstrates an **end-to-end GenAI pipeline** with semantic search, context grounding, and low-memory optimization for local deployment.
+This project demonstrates an **end-to-end GenAI pipeline** with semantic search, context grounding, and ***low-memory optimization*** for local deployment.
 
 ---
 
@@ -53,10 +53,10 @@ pdf-rag-chatbot/
 
 ## ⚙️ Setup Instructions
 
-'''md
 
 
-### 1️ Clone the Repository
+
+### 1 Clone the Repository
 
 ```bash
 git clone https://github.com/<your-username>/pdf-rag-chatbot.git
