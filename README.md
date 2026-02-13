@@ -35,19 +35,6 @@ Context Retrieval → Ollama (TinyLlama) → Answer
 - **PDF Parsing:** pypdf
 - **Language:** Python
 
----
-
-## 📂 Project Structure
-
-pdf-rag-chatbot/
-│
-├── streamlit_app.py # Main Streamlit UI + RAG pipeline
-├── requirements.txt # Project dependencies
-├── .gitignore # Ignore cache, PDFs, FAISS index
-└── README.md # Project documentation
-
-
-
 
 ---
 
@@ -56,12 +43,13 @@ pdf-rag-chatbot/
 
 
 
-### 1 Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/<your-username>/pdf-rag-chatbot.git
 cd pdf-rag-chatbot
 
+--
 
 ### 2 Create Virtual Envirenment
 
