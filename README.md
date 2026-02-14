@@ -71,7 +71,7 @@ This project demonstrates an **end-to-end GenAI pipeline** with semantic search,
 
 ## 🎥 Chatbot Demo
 
-(demo_gif.gif)
+![Demo](demo_gif.gif)
 
 
 
